@@ -1,0 +1,53 @@
+Work Item Type;Title 1 (Epic);Title 3 (User Story);Title 4 (Task);State;Estimate
+Epic;User Management;;;New;13
+User Story;;User registration with valid data;;New;5
+Task;;;Design user registration UI;New;2
+Task;;;Implement backend registration API;New;2
+Task;;;Add input validation to registration fields;New;1
+User Story;;Validate registration input;;New;3
+Task;;;Implement form validation;New;2
+Task;;;Show error messages for invalid input;New;1
+User Story;;Login and authentication;;New;5
+Task;;;Design login page UI;New;2
+Task;;;Implement authentication API;New;2
+Task;;;Manage user sessions;New;1
+Epic;Wildlife Observation Management;;;New;21
+User Story;;Record wildlife observation;;New;8
+Task;;;Design observation entry form;New;3
+Task;;;Implement observation storage;New;3
+Task;;;Capture geolocation and timestamp;New;2
+User Story;;Upload photos and videos;;New;8
+Task;;;Implement media upload;New;3
+Task;;;Store media with metadata;New;3
+Task;;;Display media in observation details;New;2
+Epic;IoT Device Integration;;;New;21
+User Story;;Receive GPS tracking data;;New;8
+Task;;;Implement IoT data ingestion;New;3
+Task;;;Store GPS tracking data;New;3
+Task;;;Associate data with tracked animals;New;2
+User Story;;Monitor animal movement;;New;8
+Task;;;Display animal movement on map;New;3
+Task;;;Update location data in real time;New;2
+Epic;Alerts and Monitoring;;;New;13
+User Story;;Detect unusual movement;;New;5
+Task;;;Define alert rules;New;2
+Task;;;Implement alert logic;New;2
+Task;;;Send notifications to users;New;1
+User Story;;Monitor restricted areas;;New;5
+Task;;;Configure restricted zones;New;2
+Task;;;Trigger alerts on zone breach;New;2
+Epic;Data Visualization and Reporting;;;New;13
+User Story;;View movement heatmaps;;New;5
+Task;;;Implement map visualization;New;2
+Task;;;Generate heatmap layers;New;2
+Task;;;Filter data by time/species;New;1
+User Story;;Generate reports;;New;5
+Task;;;Design report templates;New;2
+Task;;;Export reports (PDF/CSV);New;2
+Epic;Offline Support and Synchronization;;;New;8
+User Story;;Record data offline;;New;3
+Task;;;Enable offline data storage;New;2
+Task;;;Queue unsynced records;New;1
+User Story;;Synchronize data;;New;3
+Task;;;Detect restored connectivity;New;1
+Task;;;Sync local data with server;New;2
